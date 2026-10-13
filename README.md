@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🎓 University of Washington Bothell Computer Engineering Class of 2029
+
+
 <!--
 **RadAlpaca11/RadAlpaca11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
